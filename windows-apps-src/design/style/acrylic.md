@@ -184,7 +184,7 @@ In addition to color-neutral acrylic, we've also added resources that tint acryl
     <tr>
         <td> SystemControlAccentDark2AcrylicWindowAccentDark2MediumHighBrush, SystemControlAccentDark2AcrylicElementAccentDark2MediumHighBrush  </td>
         <td align="center"> 70% </td>
-        <td> SystemAccentColorDark2 </td>
+        <td> SystemAccentColorDark3 </td>
     </tr>
 </table>
 
